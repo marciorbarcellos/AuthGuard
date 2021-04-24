@@ -1,6 +1,37 @@
 # AuthGuard
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.10.
+
+
+     _                      _                 ____ _     ___ 
+    / \   _ __   __ _ _   _| | __ _ _ __     / ___| |   |_ _|
+   / △ \ | '_ \ / _` | | | | |/ _` | '__|   | |   | |    | |
+  / ___ \| | | | (_| | |_| | | (_| | |      | |___| |___ | |
+ /_/   \_\_| |_|\__, |\__,_|_|\__,_|_|       \____|_____|___|
+                |___/
+    
+
+Angular CLI: 11.2.9
+Node: 14.7.0
+OS: win32 x64
+
+Angular: 11.2.10
+... animations, common, compiler, compiler-cli, core, forms
+... platform-browser, platform-browser-dynamic, router
+Ivy Workspace: Yes
+
+Package                         Version
+---------------------------------------------------------
+@angular-devkit/architect       0.1102.9
+@angular-devkit/build-angular   0.1102.9
+@angular-devkit/core            11.2.9
+@angular-devkit/schematics      11.2.9
+@angular/cli                    11.2.9
+@angular/http                   7.2.16
+@schematics/angular             11.2.9
+@schematics/update              0.1102.9
+rxjs                            6.5.5
+typescript                      4.1.5
 
 ## Development server
 
