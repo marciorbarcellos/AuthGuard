@@ -1,15 +1,6 @@
 # AuthGuard
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.10.
-
-
-     _                      _                 ____ _     ___ 
-    / \   _ __   __ _ _   _| | __ _ _ __     / ___| |   |_ _|
-   / △ \ | '_ \ / _` | | | | |/ _` | '__|   | |   | |    | |
-  / ___ \| | | | (_| | |_| | | (_| | |      | |___| |___ | |
- /_/   \_\_| |_|\__, |\__,_|_|\__,_|_|       \____|_____|___|
-                |___/
-    
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version:
 
 Angular CLI: 11.2.9
 Node: 14.7.0
